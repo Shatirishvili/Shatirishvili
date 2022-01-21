@@ -1,0 +1,7 @@
+<resources>
+    <string name="saxeli" translatable="false">QR code</string>
+    <string name="sheikvanekodi" translatable="false">შეიყვანე კოდი</string>
+    <string name="enter" translatable="false">Enter</string>
+    <string name="sheikvanekodii" translatable="false">შეიყვანე კოდი</string>
+    <string name="daaskanerekodi" translatable="false">დაასკანერე კოდი</string>
+</resources>

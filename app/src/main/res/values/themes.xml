@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.QRCode" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/light_green</item>
+        <item name="colorPrimaryDark">@color/dark_green</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+</resources>
