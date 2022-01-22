@@ -1,4 +1,4 @@
-package qrcodereader
+package com.QRSCANER.QRscaner
 
 import android.Manifest
 import android.content.Intent
